@@ -1,0 +1,13 @@
+Revert "updated test case"
+
+This reverts commit c095cb5e0410c7bbb60bda9dd0aecd1e6dadfd70.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   src/components/MainContent.test.jsx
+#
